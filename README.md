@@ -44,5 +44,16 @@ After returning to the database manager from earlier. Click on the link found in
 
 A prompt should appear that reads, "Fast, Easy & Secure File Upload -- Click the button below to access file manager." Click the purple button following this text to be directed to our file management directory, as shown in the image below.
 
+<img width="1440" alt="Screen Shot 2020-01-21 at 6 17 01 PM" src="https://user-images.githubusercontent.com/33110258/72851923-f5753f80-3c7a-11ea-9ea5-284bcb7784ab.png">
+
+Next, come back to this repository so you can download the files for each webpage. There are different methods for moving these files into the directory, and some methods might be easier than others depending on if you are doing this on an iPad or a Laptop/Desktop computer.
+
+#### Method 1 - Downloading Files from Github (Laptop)
+This method works better on a laptop or desktop device, since I dont believe iPads have the ability to open .zip files without some sort of third-party application that the school-issued ones don't have. For this method, simply go to this repository's home page where this README is located and click the "Clone or Download" button on the right side of the page shown in the image below. 
+
+
+Download the .zip file to your device and open it up to show the files found in this repository. Next, go back to the file manager page with the red bar at the top, and simply drag and drop these files onto the webpage. The files should appear together in a prompt, and then click the red "Upload" button on the bottom-right of the prompt. You can delete the README.md file from the directory, as this wont be neccessary here. If this is completed successfully, your directory should look like the one below.
+
+#### Method 2 - Copying and Pasting Content (iPad)
 
 
