@@ -1,9 +1,9 @@
 <?php
 // Copy these from your database
-$servername = "localhost";
-$username = "id10906079_lmc";
-$password = "thisismypassword";
-$dbname = "id10906079_names";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
