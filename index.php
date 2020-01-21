@@ -3,8 +3,6 @@
         <title>My Site</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="styles/styles.css">
-        <script src="scripts/remove.js"></script>
         <style>
             tr:nth-child(even) {
                 background:#ddd;
