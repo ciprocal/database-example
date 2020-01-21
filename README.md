@@ -23,6 +23,8 @@ After selecting this link, click on the link that says "Database Manager", as sh
 
 Click the button that says "New Database", and you should be given the following prompt below. You can enter any names/password you desire here, but keep in mind we will use these in our code later. I suggest not using an actual password of yours, as you only need a "dummy" password here so the code can interact with the database. Also, try not to use spaces when naming these databases, and I suggest sticking to simple one-word names for the purpose of this demonstration.
 
+<img width="1440" alt="Screen Shot 2020-01-21 at 5 38 14 PM" src="https://user-images.githubusercontent.com/33110258/72850237-ad541e00-3c76-11ea-95ac-6e5325ca594a.png">
 
+After filling out the form, it may take a minute or so for the database to be created. Once it is finished, click on the purple "Manage" button and click the first link that should appear, "PhpMyAdmin". You should then be directed to another webpage with a lot of information. All you need to worry about is the first database on the left-hand side of the page. As shown below, click the text that has an "id" and a bunch of numbers after it. Following should be an underscore and then the name you gave the database earlier.
 
 
