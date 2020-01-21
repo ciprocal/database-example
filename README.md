@@ -29,10 +29,20 @@ After filling out the form, it may take a minute or so for the database to be cr
 
 <img width="1440" alt="Screen Shot 2020-01-21 at 5 57 13 PM" src="https://user-images.githubusercontent.com/33110258/72850844-0b353580-3c78-11ea-84c3-e0dc5be52202.png">
 
-Clicking this link will bring up a prompt on the webpage that states there are no tables for the database. In the text field that says "Name:", enter `Names` as the name of the table, as this is what I used in the code. Next, change the number of columns to 2, as we only need two types of data input. After doing this, click "Go".
+Clicking this link will bring up a prompt on the webpage that states there are no tables for the database. In the text field that says "Name:", enter `Names` as the name of the table, as this is what I used in the code. Next, change the number of columns to 2, as we only need two types of data input. Your form should look like the one in the image below. After doing this, click "Go".
+
+<img width="1440" alt="Screen Shot 2020-01-21 at 6 07 32 PM" src="https://user-images.githubusercontent.com/33110258/72851518-de821d80-3c79-11ea-9e5c-8a9751865770.png">
 
 Next, you will be given two rows to fill out, as shown below. In the column that says "Name", fill out the first row with the name `FirstName` and the second row with the name `LastName`. Next, change the Type first both the first and the second rows to TEXT instead of VAR. The image below is what you should have. You don't have to fill out anything else on this page, and you can click "Save" on the bottom-right.
 
 <img width="1440" alt="Screen Shot 2020-01-21 at 6 07 56 PM" src="https://user-images.githubusercontent.com/33110258/72851425-98c55500-3c79-11ea-871b-3c1156ea0347.png">
+
+Once this is completed, your database should be properly set up. From this point we will go back the page that has our database manager from before to continue the setup process.
+
+## Part 3: Uploading the Webpage Files
+After returning to the database manager from earlier. Click on the link found in the left-hand side of the page that says "File Manager". This can be found right above "Database Manager" in the tools section of the dashboard if you are not already there.
+
+A prompt should appear that reads, "Fast, Easy & Secure File Upload -- Click the button below to access file manager." Click the purple button following this text to be directed to our file management directory, as shown in the image below.
+
 
 
