@@ -1,4 +1,5 @@
 # database-example
 Simple website displaying information from a MySQL Database using PHP
 
-Tutorial to come.
+##Getting Started
+First, go to [000webhost.com]
