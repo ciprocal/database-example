@@ -1,5 +1,5 @@
 # database-example
 Simple website displaying information from a MySQL Database using PHP
 
-##Getting Started
-First, go to [000webhost.com]
+## Getting Started
+First, go to [000webhost.com](http://000webhost.com).
