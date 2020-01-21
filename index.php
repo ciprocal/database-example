@@ -30,10 +30,10 @@
                 <th>Last Name</th>
             </tr>
         <?php
-            $servername = "localhost";
-            $username   = "id10906079_lmc";
-            $password   = "thisismypassword";
-            $dbname     = "id10906079_names";
+            $servername = "";
+            $username   = "";
+            $password   = "";
+            $dbname     = "";
             
             $conn = new mysqli($servername, $username, $password, $dbname);
             
