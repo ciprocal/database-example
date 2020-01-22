@@ -89,3 +89,25 @@ Within the quotation marks for the "$password" variable, enter the password you 
 
 <img width="1440" alt="Screen Shot 2020-01-21 at 5 56 11 PM" src="https://user-images.githubusercontent.com/33110258/72854196-aaaaf600-3c81-11ea-90c4-bff326d11072.png">
 
+Copy the text under the "DB Name" heading into the "$dbname" variable, and copy the text under the "DB User" heading into the "$username" variable. So for my example, the variables would look like this:
+```php
+$servername = "localhost";
+$username = "id12321960_mydbuser";
+$password = "mypassword";
+$dbname = "id12321960_mydbname";
+```
+After filling this information out, go to each file and replace the blank variables with what you have just filled in. Save each file after editing, and you should be good to go.
+
+## Conclusion
+After following these examples, you can access your website by going to ```http://(yourwebsitetitle).000webhostapp.com``` in any browser. If done correctly, your homepage should appear as it does below and you can insert names into the database by filling out the form and clicking "Submit", and you can then clear the database by clicking "Clear" at the bottom of the page.
+
+<img width="1440" alt="Screen Shot 2020-01-21 at 9 05 18 PM" src="https://user-images.githubusercontent.com/33110258/72859430-ca4a1a80-3c91-11ea-9799-76ef5ba28cd2.png">
+
+
+I encourage you to edit these files as you will and in any way you want, such as implementing CSS to make the website look cleaner or by using other types of inputs to store in the database. You can do anything with this!
+
+If you have any questions/feedback about the material or have issues with anything in this process, feel free to contact me at my school email: **20160lc@chaminade-hs.org**
+
+
+
+
